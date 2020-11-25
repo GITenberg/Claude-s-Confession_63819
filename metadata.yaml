@@ -5,6 +5,9 @@ contributor:
     agent_name: Cox, George D.
     gutenberg_agent_id: '52612'
     url: http://www.gutenberg.org/2009/agents/52612
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Zola, Émile
@@ -19,6 +22,8 @@ creator:
     - https://en.wikipedia.org/wiki/Émile_Zola
     - https://fr.wikipedia.org/wiki/%C3%89mile_Zola
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63819#Claude-s-Confession
 gutenberg_issued: '2020-11-20'
 gutenberg_type: Text
 identifiers:
